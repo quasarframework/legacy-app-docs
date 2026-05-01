@@ -1,6 +1,6 @@
 ---
 title: Vue SSR Directives
-desc: (@quasar/app-vite) Managing the Vue directives for SSR in a Quasar app.
+desc: (legacy @quasar/app-vite v2) Managing the Vue directives for SSR in a Quasar app.
 ---
 
 ::: warning

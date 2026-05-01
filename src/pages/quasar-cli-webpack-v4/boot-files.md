@@ -1,6 +1,6 @@
 ---
 title: Boot files
-desc: (@quasar/app-webpack) Managing your startup code in a Quasar app.
+desc: (legacy @quasar/app-webpack v4) Managing your startup code in a Quasar app.
 related:
   - /quasar-cli-webpack-v4/quasar-config-file
 ---

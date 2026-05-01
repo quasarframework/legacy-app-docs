@@ -1,6 +1,6 @@
 ---
 title: Deploying a SPA
-desc: (@quasar/app-vite) How to publish a Single Page App built by Quasar CLI.
+desc: (legacy @quasar/app-vite v2) How to publish a Single Page App built by Quasar CLI.
 ---
 
 There exist many services that allow deploying applications with ease.

@@ -1,6 +1,6 @@
 ---
 title: App Routing
-desc: (@quasar/app-webpack) How to use the Vue Router in a Quasar app.
+desc: (legacy @quasar/app-webpack v4) How to use the Vue Router in a Quasar app.
 ---
 
 You'll notice that your Quasar project contains a `/src/router` folder. This holds the routing configuration of your website/app:

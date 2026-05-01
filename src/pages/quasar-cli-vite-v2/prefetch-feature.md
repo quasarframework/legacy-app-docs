@@ -1,6 +1,6 @@
 ---
 title: PreFetch Feature
-desc: (@quasar/app-vite) How to prefetch data and initialize Pinia, validate the route and redirect to another page in a Quasar app.
+desc: (legacy @quasar/app-vite v2) How to prefetch data and initialize Pinia, validate the route and redirect to another page in a Quasar app.
 related:
   - /quasar-cli-vite-v2/quasar-config-file
 ---

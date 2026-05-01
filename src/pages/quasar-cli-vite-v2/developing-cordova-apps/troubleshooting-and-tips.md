@@ -1,6 +1,6 @@
 ---
 title: Cordova Troubleshooting and Tips
-desc: (@quasar/app-vite) Tips and tricks for a Quasar hybrid mobile app with Cordova.
+desc: (legacy @quasar/app-vite v2) Tips and tricks for a Quasar hybrid mobile app with Cordova.
 ---
 
 ## $q.cordova

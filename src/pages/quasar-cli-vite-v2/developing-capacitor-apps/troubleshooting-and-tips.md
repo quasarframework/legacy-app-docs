@@ -1,6 +1,6 @@
 ---
 title: Capacitor Troubleshooting and Tips
-desc: (@quasar/app-vite) Tips and tricks for a Quasar hybrid mobile app with Capacitor.
+desc: (legacy @quasar/app-vite v2) Tips and tricks for a Quasar hybrid mobile app with Capacitor.
 ---
 
 ## $q.capacitor

@@ -1,12 +1,10 @@
 ---
 title: Frameless Electron Window
-desc: (@quasar/app-webpack) How to hide the window frame in a Quasar desktop app.
+desc: (legacy @quasar/app-webpack v4) How to hide the window frame in a Quasar desktop app.
 examples: frameless-electron-window
-related:
-  - /vue-components/bar
 ---
 
-A nice combo is to use frameless Electron window along with [QBar](/vue-components/bar) component. Here's why.
+A nice combo is to use frameless Electron window along with [QBar](https://v2.quasar.dev/vue-components/bar) component. Here's why.
 
 ## Main thread
 

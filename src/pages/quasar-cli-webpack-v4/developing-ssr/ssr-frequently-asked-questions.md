@@ -1,6 +1,6 @@
 ---
 title: SSR FAQ
-desc: (@quasar/app-webpack) Tips and tricks for a Quasar server-side rendered app.
+desc: (legacy @quasar/app-webpack v4) Tips and tricks for a Quasar server-side rendered app.
 ---
 
 ## Why am I getting hydration errors?

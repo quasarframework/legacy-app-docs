@@ -1,6 +1,6 @@
 ---
 title: App Icons for SSR
-desc: (@quasar/app-webpack) How to manage the app icons for a Quasar server-side rendered app.
+desc: (legacy @quasar/app-webpack v4) How to manage the app icons for a Quasar server-side rendered app.
 scope:
   spaTree:
     l: public

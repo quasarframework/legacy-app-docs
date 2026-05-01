@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting and Tips
-desc: (@quasar/app-webpack) Tips and tricks for a Quasar desktop app with Electron.
+desc: (legacy @quasar/app-webpack v4) Tips and tricks for a Quasar desktop app with Electron.
 ---
 
 ## Browser Devtools

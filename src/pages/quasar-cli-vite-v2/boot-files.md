@@ -1,6 +1,6 @@
 ---
 title: Boot files
-desc: (@quasar/app-vite) Managing your startup code in a Quasar app.
+desc: (legacy @quasar/app-vite v2) Managing your startup code in a Quasar app.
 related:
   - /quasar-cli-vite-v2/quasar-config-file
 ---

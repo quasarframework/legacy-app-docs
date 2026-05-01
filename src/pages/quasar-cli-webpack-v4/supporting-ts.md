@@ -1,6 +1,6 @@
 ---
 title: Supporting TypeScript
-desc: (@quasar/app-webpack) How to enable support for TypeScript in a Quasar app.
+desc: (legacy @quasar/app-webpack v4) How to enable support for TypeScript in a Quasar app.
 related:
   - /quasar-cli-webpack-v4/quasar-config-file
   - /quasar-cli-webpack-v4/linter

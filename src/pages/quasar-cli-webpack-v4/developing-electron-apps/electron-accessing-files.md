@@ -1,6 +1,6 @@
 ---
 title: Electron Accessing Files
-desc: (@quasar/app-webpack) How to access files in a Quasar desktop app.
+desc: (legacy @quasar/app-webpack v4) How to access files in a Quasar desktop app.
 scope:
   tree:
     l: app.asar

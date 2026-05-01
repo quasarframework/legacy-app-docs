@@ -1,6 +1,6 @@
 ---
 title: App Icons for (BEX)
-desc: (@quasar/app-webpack) How to manage the app icons for a Quasar Browser Extension (BEX).
+desc: (legacy @quasar/app-webpack v4) How to manage the app icons for a Quasar Browser Extension (BEX).
 scope:
   tree:
     l: src-bex

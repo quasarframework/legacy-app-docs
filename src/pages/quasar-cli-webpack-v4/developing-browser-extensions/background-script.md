@@ -1,6 +1,6 @@
 ---
 title: Background Script
-desc: (@quasar/app-webpack) How to communicate using your background script with other parts of your Browser Extension (BEX).
+desc: (legacy @quasar/app-webpack v4) How to communicate using your background script with other parts of your Browser Extension (BEX).
 ---
 
 The background script runs in the context of the BEX itself and can listen to all available browser extension events.

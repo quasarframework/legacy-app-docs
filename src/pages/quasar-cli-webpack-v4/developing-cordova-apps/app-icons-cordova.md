@@ -1,6 +1,6 @@
 ---
 title: App Icons for Cordova
-desc: (@quasar/app-webpack) How to manage the app icons for a Quasar hybrid mobile app with Cordova.
+desc: (legacy @quasar/app-webpack v4) How to manage the app icons for a Quasar hybrid mobile app with Cordova.
 scope:
   tree:
     l: src-cordova

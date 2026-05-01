@@ -1,6 +1,6 @@
 ---
 title: Preparation for Electron
-desc: (@quasar/app-webpack) How to add Electron mode into a Quasar app.
+desc: (legacy @quasar/app-webpack v4) How to add Electron mode into a Quasar app.
 scope:
   tree:
     l: src-electron

@@ -1,6 +1,6 @@
 ---
 title: Deploying a SPA
-desc: (@quasar/app-webpack) How to publish a Single Page App built by Quasar CLI.
+desc: (legacy @quasar/app-webpack v4) How to publish a Single Page App built by Quasar CLI.
 ---
 
 There exist many services that allow deploying applications with ease.

@@ -1,6 +1,6 @@
 ---
 title: Commands List
-desc: (@quasar/app-webpack) The entire list of Quasar CLI commands.
+desc: (legacy @quasar/app-webpack v4) The entire list of Quasar CLI commands.
 ---
 
 Familiarize yourself with the list of available commands inside a Quasar project:

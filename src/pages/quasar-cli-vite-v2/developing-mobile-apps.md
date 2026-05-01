@@ -1,6 +1,6 @@
 ---
 title: Developing Mobile Apps
-desc: (@quasar/app-vite) Developing hybrid mobile apps with Quasar CLI.
+desc: (legacy @quasar/app-vite v2) Developing hybrid mobile apps with Quasar CLI.
 related:
   - /quasar-cli-vite-v2/developing-capacitor-apps/introduction
   - /quasar-cli-vite-v2/developing-cordova-apps/introduction

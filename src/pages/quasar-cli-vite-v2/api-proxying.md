@@ -1,6 +1,6 @@
 ---
 title: API Proxying for Dev
-desc: (@quasar/app-vite) How to use an API proxy with the Quasar dev server.
+desc: (legacy @quasar/app-vite v2) How to use an API proxy with the Quasar dev server.
 related:
   - /quasar-cli-vite-v2/quasar-config-file
 ---

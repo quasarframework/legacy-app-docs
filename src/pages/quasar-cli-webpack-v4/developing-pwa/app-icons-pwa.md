@@ -1,6 +1,6 @@
 ---
 title: App Icons for PWA
-desc: (@quasar/app-webpack) How to manage the app icons for a Quasar Progressive Web App.
+desc: (legacy @quasar/app-webpack v4) How to manage the app icons for a Quasar Progressive Web App.
 scope:
   pwaTree:
     l: public

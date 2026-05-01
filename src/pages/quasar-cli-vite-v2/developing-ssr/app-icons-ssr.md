@@ -1,6 +1,6 @@
 ---
 title: App Icons for SSR
-desc: (@quasar/app-vite) How to manage the app icons for a Quasar server-side rendered app.
+desc: (legacy @quasar/app-vite v2) How to manage the app icons for a Quasar server-side rendered app.
 scope:
   spaTree:
     l: public

@@ -1,6 +1,6 @@
 ---
 title: Upgrade Guide for Quasar CLI with Webpack
-desc: (@quasar/app-webpack) How to upgrade Quasar CLI with Webpack from older versions to the latest one.
+desc: (legacy @quasar/app-webpack v4) How to upgrade Quasar CLI with Webpack from older versions to the latest one.
 scope:
   oldBexTree:
     l: src-bex

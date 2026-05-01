@@ -1,6 +1,6 @@
 ---
 title: Configuring PWA
-desc: (@quasar/app-vite) How to manage your Progressive Web Apps with Quasar CLI.
+desc: (legacy @quasar/app-vite v2) How to manage your Progressive Web Apps with Quasar CLI.
 related:
   - /quasar-cli-vite-v2/quasar-config-file
 scope:

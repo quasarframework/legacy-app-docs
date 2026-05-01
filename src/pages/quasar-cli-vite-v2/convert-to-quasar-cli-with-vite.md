@@ -1,6 +1,6 @@
 ---
 title: Convert project to Quasar CLI with Vite
-desc: (@quasar/app-vite) How to convert a Quasar CLI with Webpack project to a Quasar CLI with Vite one.
+desc: (legacy @quasar/app-vite v2) How to convert a Quasar CLI with Webpack project to a Quasar CLI with Vite one.
 ---
 
 This page will guide you on how to convert a Quasar CLI with Webpack (`@quasar/app-webpack v4`) project into a Quasar CLI with Vite one (`@quasar/app-vite v2`).

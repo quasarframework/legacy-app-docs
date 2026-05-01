@@ -1,6 +1,6 @@
 ---
 title: SSR Webserver
-desc: (@quasar/app-webpack) Configuring the Quasar SSR webserver for different platforms, including a serverless architecture.
+desc: (legacy @quasar/app-webpack v4) Configuring the Quasar SSR webserver for different platforms, including a serverless architecture.
 ---
 
 Notice that your generated `/src-ssr` contains a file named `server.js`. This file defines how your SSR webserver is created, managed and served. You can start listening to a port or provide a handler for your serverless infrastructure to use. It's up to you.

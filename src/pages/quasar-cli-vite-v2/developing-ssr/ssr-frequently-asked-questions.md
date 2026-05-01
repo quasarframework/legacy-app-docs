@@ -1,6 +1,6 @@
 ---
 title: SSR FAQ
-desc: (@quasar/app-vite) Tips and tricks for a Quasar server-side rendered app.
+desc: (legacy @quasar/app-vite v2) Tips and tricks for a Quasar server-side rendered app.
 ---
 
 ## Why am I getting hydration errors?

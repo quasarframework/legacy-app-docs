@@ -1,6 +1,6 @@
 ---
 title: SPA Build Commands
-desc: (@quasar/app-webpack) The Quasar CLI list of commands when developing or building a single page application.
+desc: (legacy @quasar/app-webpack v4) The Quasar CLI list of commands when developing or building a single page application.
 ---
 
 Developing:

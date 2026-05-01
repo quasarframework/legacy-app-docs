@@ -1,6 +1,6 @@
 ---
 title: Handling process.env
-desc: (@quasar/app-webpack) How to differentiate the runtime procedure based on process.env in a Quasar app.
+desc: (legacy @quasar/app-webpack v4) How to differentiate the runtime procedure based on process.env in a Quasar app.
 ---
 
 Accessing `process.env` can help you in many ways:

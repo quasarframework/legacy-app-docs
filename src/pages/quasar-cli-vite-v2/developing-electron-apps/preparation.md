@@ -1,6 +1,6 @@
 ---
 title: Preparation for Electron
-desc: (@quasar/app-vite) How to add Electron mode into a Quasar app.
+desc: (legacy @quasar/app-vite v2) How to add Electron mode into a Quasar app.
 scope:
   tree:
     l: src-electron

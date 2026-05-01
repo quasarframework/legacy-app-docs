@@ -1,6 +1,6 @@
 ---
 title: Directory Structure
-desc: (@quasar/app-webpack) The structure of a Quasar app with explanations for each folder and file.
+desc: (legacy @quasar/app-webpack v4) The structure of a Quasar app with explanations for each folder and file.
 scope:
   tree:
     l: '.'

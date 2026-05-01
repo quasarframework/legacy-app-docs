@@ -1,6 +1,6 @@
 ---
 title: Live Updates
-desc: (@quasar/app-vite) How to enable live updates for a Quasar hybrid mobile app with Capacitor.
+desc: (legacy @quasar/app-vite v2) How to enable live updates for a Quasar hybrid mobile app with Capacitor.
 ---
 
 Live Updates, also known as Over-the-Air (OTA) or hot code updates, are a way to push updates to your app without going through the app store review process. This is particularly useful for bug fixes or minor updates that don't require a full app release.

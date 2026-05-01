@@ -1,6 +1,6 @@
 ---
 title: Upgrade Guide for Quasar CLI with Vite
-desc: (@quasar/app-vite) How to upgrade Quasar CLI with Vite from older versions to the latest one.
+desc: (legacy @quasar/app-vite v2) How to upgrade Quasar CLI with Vite from older versions to the latest one.
 ---
 
 ## @quasar/app-vite v2

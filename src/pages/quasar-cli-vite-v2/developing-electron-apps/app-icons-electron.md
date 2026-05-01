@@ -1,6 +1,6 @@
 ---
 title: App Icons for Electron
-desc: (@quasar/app-vite) How to manage the app icons for a Desktop Quasar app.
+desc: (legacy @quasar/app-vite v2) How to manage the app icons for a Desktop Quasar app.
 scope:
   tree:
     l: src-electron

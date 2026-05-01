@@ -1,6 +1,6 @@
 ---
 title: Preparation for Capacitor App
-desc: (@quasar/app-webpack) What you need to do before developing a Quasar hybrid mobile app with Capacitor.
+desc: (legacy @quasar/app-webpack v4) What you need to do before developing a Quasar hybrid mobile app with Capacitor.
 ---
 
 Before we dive in to the actual development, we need to do some preparation work.

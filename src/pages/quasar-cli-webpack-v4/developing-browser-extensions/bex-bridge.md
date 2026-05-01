@@ -1,6 +1,6 @@
 ---
 title: BEX Bridge Communication
-desc: (@quasar/app-webpack) How to communicate between different parts of your Browser Extension (BEX) in Quasar.
+desc: (legacy @quasar/app-webpack v4) How to communicate between different parts of your Browser Extension (BEX) in Quasar.
 ---
 
 Allowing a Quasar App to communicate with the various parts of the BEX is essential. Quasar closes this gap using a `bridge`.

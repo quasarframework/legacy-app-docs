@@ -1,8 +1,6 @@
 ---
 title: CSS Preprocessors
-desc: (@quasar/app-vite) Sass/SCSS are the out of the box supported css preprocessors in Quasar
-related:
-  - /style/sass-scss-variables
+desc: (legacy @quasar/app-vite v2) Sass/SCSS are the out of the box supported css preprocessors in Quasar
 ---
 
 **Sass** or **SCSS** (recommending any of the two flavours) are the out of the box supported css preprocessors through Quasar CLI, should you want to use them.

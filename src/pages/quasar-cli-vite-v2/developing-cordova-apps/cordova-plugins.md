@@ -1,6 +1,6 @@
 ---
 title: Cordova Plugins
-desc: (@quasar/app-vite) How to use the Cordova plugins in a Quasar app.
+desc: (legacy @quasar/app-vite v2) How to use the Cordova plugins in a Quasar app.
 ---
 
 You can hook into the native device APIs by using [Cordova Plugins](https://cordova.apache.org/docs/en/latest/#plugin-apis).

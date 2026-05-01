@@ -1,6 +1,6 @@
 ---
 title: PreFetch Feature
-desc: (@quasar/app-webpack) How to prefetch data and initialize your Pinia stores, validate the route and redirect to another page in a Quasar app.
+desc: (legacy @quasar/app-webpack v4) How to prefetch data and initialize your Pinia stores, validate the route and redirect to another page in a Quasar app.
 related:
   - /quasar-cli-webpack-v4/quasar-config-file
 ---

@@ -1,6 +1,6 @@
 ---
 title: Capacitor versions
-desc: (@quasar/app-webpack) Supported Capacitor versions in Quasar. How to upgrade to a newer Capacitor version.
+desc: (legacy @quasar/app-webpack v4) Supported Capacitor versions in Quasar. How to upgrade to a newer Capacitor version.
 ---
 
 The officially supported versions of Capacitor are v1 through v6.

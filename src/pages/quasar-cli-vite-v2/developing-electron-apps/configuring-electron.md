@@ -1,6 +1,6 @@
 ---
 title: Configuring Electron
-desc: (@quasar/app-vite) How to manage your Electron apps with Quasar CLI.
+desc: (legacy @quasar/app-vite v2) How to manage your Electron apps with Quasar CLI.
 related:
   - /quasar-cli-vite-v2/quasar-config-file
 ---

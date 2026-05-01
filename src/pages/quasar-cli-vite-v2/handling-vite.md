@@ -1,6 +1,6 @@
 ---
 title: Handling Vite
-desc: (@quasar/app-vite) How to manage Vite in a Quasar app.
+desc: (legacy @quasar/app-vite v2) How to manage Vite in a Quasar app.
 related:
   - /quasar-cli-vite-v2/quasar-config-file
 ---

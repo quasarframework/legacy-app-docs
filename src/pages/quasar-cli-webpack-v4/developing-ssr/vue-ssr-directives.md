@@ -1,6 +1,6 @@
 ---
 title: Vue SSR Directives
-desc: (@quasar/app-webpack) Managing the Vue directives for SSR in a Quasar app.
+desc: (legacy @quasar/app-webpack v4) Managing the Vue directives for SSR in a Quasar app.
 ---
 
 ::: warning

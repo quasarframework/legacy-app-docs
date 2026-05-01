@@ -1,6 +1,6 @@
 ---
 title: Configuring Capacitor
-desc: (@quasar/app-webpack) How to manage your Capacitor apps with Quasar CLI.
+desc: (legacy @quasar/app-webpack v4) How to manage your Capacitor apps with Quasar CLI.
 related:
   - /quasar-cli-webpack-v4/quasar-config-file
 ---

@@ -1,6 +1,6 @@
 ---
 title: The ssrContext Object
-desc: (@quasar/app-vite) The ssrContext Object in Quasar SSR
+desc: (legacy @quasar/app-vite v2) The ssrContext Object in Quasar SSR
 ---
 
 The `ssrContext` Object is the SSR context with which all the app's Vue components are rendered with.

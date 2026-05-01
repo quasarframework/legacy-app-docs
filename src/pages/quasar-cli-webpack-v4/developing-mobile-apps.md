@@ -1,6 +1,6 @@
 ---
 title: Developing Mobile Apps
-desc: (@quasar/app-webpack) Developing hybrid mobile apps with Quasar CLI.
+desc: (legacy @quasar/app-webpack v4) Developing hybrid mobile apps with Quasar CLI.
 related:
   - /quasar-cli-webpack-v4/developing-capacitor-apps/introduction
   - /quasar-cli-webpack-v4/developing-cordova-apps/introduction

@@ -1,6 +1,6 @@
 ---
 title: Configuring quasar.config file
-desc: (@quasar/app-vite) Where, how and what you can configure in a Quasar CLI with Vite app.
+desc: (legacy @quasar/app-vite v2) Where, how and what you can configure in a Quasar CLI with Vite app.
 ---
 
 Notice that your scaffolded project folder contains a `/quasar.config` file. So what can you configure through it? Basically anything that Quasar CLI does for you.

@@ -1,6 +1,6 @@
 ---
 title: Client Side Hydration
-desc: (@quasar/app-webpack) What hydration is and its caveats in a Quasar server-side rendered app.
+desc: (legacy @quasar/app-webpack v4) What hydration is and its caveats in a Quasar server-side rendered app.
 ---
 
 Hydration refers to the client-side process during which Vue takes over the static HTML sent by the server and turns it into dynamic DOM that can react to client-side data changes.

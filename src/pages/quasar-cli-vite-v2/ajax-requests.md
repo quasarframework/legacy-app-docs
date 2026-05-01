@@ -1,6 +1,6 @@
 ---
 title: Ajax Requests
-desc: (@quasar/app-vite) Using Axios for fetching data in a Quasar app.
+desc: (legacy @quasar/app-vite v2) Using Axios for fetching data in a Quasar app.
 ---
 
 > We recommend selecting Axios during project initialization.

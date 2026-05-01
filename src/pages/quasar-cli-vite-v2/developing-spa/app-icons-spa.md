@@ -1,6 +1,6 @@
 ---
 title: App Icons for SPA
-desc: (@quasar/app-vite) How to manage the app icons for a Quasar Single Page Application.
+desc: (legacy @quasar/app-vite v2) How to manage the app icons for a Quasar Single Page Application.
 scope:
   spaTree:
     l: public

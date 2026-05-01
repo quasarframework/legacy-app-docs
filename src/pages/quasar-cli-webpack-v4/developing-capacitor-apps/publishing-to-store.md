@@ -1,6 +1,6 @@
 ---
 title: Publishing to Store
-desc: (@quasar/app-webpack) How to publish a Quasar hybrid mobile app with Capacitor to Google Play Store and to Apple App Store.
+desc: (legacy @quasar/app-webpack v4) How to publish a Quasar hybrid mobile app with Capacitor to Google Play Store and to Apple App Store.
 ---
 
 So, you've finished working on your Mobile App. Now it's time to deploy it. Let's learn how.

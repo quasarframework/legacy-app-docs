@@ -1,6 +1,6 @@
 ---
 title: Preparation for BEX
-desc: (@quasar/app-vite) How to add the Browser Extension (BEX) mode into a Quasar app.
+desc: (legacy @quasar/app-vite v2) How to add the Browser Extension (BEX) mode into a Quasar app.
 scope:
   tree:
     l: src-bex

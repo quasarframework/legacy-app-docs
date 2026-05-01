@@ -1,6 +1,6 @@
 ---
 title: PWA Build Commands
-desc: (@quasar/app-vite) The Quasar CLI list of commands when developing or building a Progressive Web App.
+desc: (legacy @quasar/app-vite v2) The Quasar CLI list of commands when developing or building a Progressive Web App.
 ---
 
 ## Developing

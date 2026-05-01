@@ -1,6 +1,6 @@
 ---
 title: State management with Pinia
-desc: (@quasar/app-webpack) How to manage Pinia in a Quasar App.
+desc: (legacy @quasar/app-webpack v4) How to manage Pinia in a Quasar App.
 scope:
   tree:
     l: src

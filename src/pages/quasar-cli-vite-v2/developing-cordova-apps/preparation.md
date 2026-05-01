@@ -1,6 +1,6 @@
 ---
 title: Preparation for Cordova App
-desc: (@quasar/app-vite) What you need to do before developing a Quasar hybrid mobile app with Cordova.
+desc: (legacy @quasar/app-vite v2) What you need to do before developing a Quasar hybrid mobile app with Cordova.
 ---
 
 Before we dive into the actual development, we need to do some preparation work.

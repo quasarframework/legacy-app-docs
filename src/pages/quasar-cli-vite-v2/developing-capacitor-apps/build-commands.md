@@ -1,6 +1,6 @@
 ---
 title: Capacitor Build Commands
-desc: (@quasar/app-vite) The Quasar CLI list of commands when developing or building a hybrid mobile app with Capacitor.
+desc: (legacy @quasar/app-vite v2) The Quasar CLI list of commands when developing or building a hybrid mobile app with Capacitor.
 ---
 
 ## Developing

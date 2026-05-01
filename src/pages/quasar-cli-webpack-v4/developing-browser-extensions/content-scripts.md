@@ -1,6 +1,6 @@
 ---
 title: Content Scripts
-desc: (@quasar/app-webpack) How to communicate using your content script with your Quasar App and Background Script in Quasar Browser Extension mode.
+desc: (legacy @quasar/app-webpack v4) How to communicate using your content script with your Quasar App and Background Script in Quasar Browser Extension mode.
 ---
 
 The content script(s) run in the context of the web page. There will be a new content script instance per tab running the extension.

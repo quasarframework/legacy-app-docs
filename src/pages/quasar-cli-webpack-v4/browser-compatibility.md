@@ -1,6 +1,6 @@
 ---
 title: Browser compatibility
-desc: (@quasar/app-webpack) How to handle the browser support with Quasar CLI.
+desc: (legacy @quasar/app-webpack v4) How to handle the browser support with Quasar CLI.
 related:
   - /quasar-cli-webpack-v4/quasar-config-file
 ---

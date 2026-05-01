@@ -1,6 +1,6 @@
 ---
 title: Preparation for BEX
-desc: (@quasar/app-webpack) How to add the Browser Extension (BEX) mode into a Quasar app.
+desc: (legacy @quasar/app-webpack v4) How to add the Browser Extension (BEX) mode into a Quasar app.
 scope:
   tree:
     l: src-bex

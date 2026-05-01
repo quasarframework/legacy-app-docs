@@ -1,6 +1,6 @@
 ---
 title: Upgrade guide on Electron
-desc: (@quasar/app-vite) Upgrading instructions when dealing with Electron in Quasar.
+desc: (legacy @quasar/app-vite v2) Upgrading instructions when dealing with Electron in Quasar.
 ---
 
 ## Upgrading Electron

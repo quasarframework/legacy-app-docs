@@ -1,6 +1,6 @@
 ---
 title: Handling process.env
-desc: (@quasar/app-vite) How to differentiate the runtime procedure based on process.env in a Quasar app.
+desc: (legacy @quasar/app-vite v2) How to differentiate the runtime procedure based on process.env in a Quasar app.
 ---
 
 Using `process.env` can help you in many ways:

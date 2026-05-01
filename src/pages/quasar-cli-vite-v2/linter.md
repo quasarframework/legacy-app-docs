@@ -1,6 +1,6 @@
 ---
 title: Linter
-desc: (@quasar/app-vite) How to configure a code linter in a Quasar app.
+desc: (legacy @quasar/app-vite v2) How to configure a code linter in a Quasar app.
 ---
 
 Having a code linter (like [ESLint v9+](https://eslint.org/)) in place is highly recommended and ensures your code looks legible. It also helps you capture some errors before even running the code.

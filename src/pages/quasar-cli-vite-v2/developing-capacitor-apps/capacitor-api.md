@@ -1,6 +1,6 @@
 ---
 title: Capacitor APIs
-desc: (@quasar/app-vite) How to use the Capacitor plugins in a Quasar app.
+desc: (legacy @quasar/app-vite v2) How to use the Capacitor plugins in a Quasar app.
 ---
 
 You can hook into the native device APIs by using [Capacitor APIs](https://capacitor.ionicframework.com/docs/apis).

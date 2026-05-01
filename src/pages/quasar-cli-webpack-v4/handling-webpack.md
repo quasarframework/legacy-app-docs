@@ -1,6 +1,6 @@
 ---
 title: Handling Webpack
-desc: (@quasar/app-webpack) How to manage Webpack in a Quasar app.
+desc: (legacy @quasar/app-webpack v4) How to manage Webpack in a Quasar app.
 related:
   - /quasar-cli-webpack-v4/quasar-config-file
 ---
