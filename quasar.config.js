@@ -21,7 +21,7 @@ export default defineConfig(ctx => ({
     // rebuildCache: true,
 
     env: {
-      DOCS_BRANCH: 'dev',
+      DOCS_BRANCH: 'main',
       SEARCH_INDEX: 'quasar-legacy-app'
     },
 
