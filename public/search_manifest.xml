@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Quasar Legacy App docs</ShortName>
+  <Description>Quasar Legacy App documentation</Description>
+  <Url type="text/html" method="get" template="https://legacy-app.quasar.dev/home?search={searchTerms}"/>
+</OpenSearchDescription>

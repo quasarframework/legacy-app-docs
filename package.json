@@ -1,0 +1,34 @@
+{
+  "name": "legacy-app.quasar.dev",
+  "version": "2.0.0",
+  "description": "Quasar Legacy App Docs Website",
+  "productName": "quasar-legacy-app-docs",
+  "author": "Razvan Stoenescu <razvan.stoenescu@gmail.com>",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "quasar dev",
+    "build": "node build/search.js && quasar build -m pwa",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1",
+    "quasar": "^2",
+    "prismjs": "^1.29.0",
+    "register-service-worker": "^1.7.2",
+    "vue": "3.4.20",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^2.0.0",
+    "axios": "^1.7.7",
+    "fast-glob": "^3.3.2",
+    "fs-extra": "^11.2.0",
+    "gray-matter": "^4.0.3",
+    "markdown-ast": "^0.3.0",
+    "markdown-it": "^14.1.0",
+    "markdown-it-container": "^4.0.0",
+    "toml": "^3.0.0",
+    "workbox-build": "^7.1.1"
+  }
+}
