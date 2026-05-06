@@ -46,7 +46,7 @@ export function getVueComponent ({ frontMatter, mdContent, pageScripts }) {
 import { copyHeading } from 'assets/page-utils'
 ${ frontMatter.examples !== void 0 ? `
 import { provide } from 'vue'
-provide('_q_ex', process.env.CLIENT
+provide('_q_ex', import.meta.env.QUASAR_CLIENT
   ? { name: '${ frontMatter.examples }', list: import('examples:${ frontMatter.examples }') }
   : { name: '${ frontMatter.examples }' })
 ` : '' }

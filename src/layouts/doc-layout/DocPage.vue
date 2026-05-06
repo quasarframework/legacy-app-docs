@@ -118,7 +118,7 @@ const docStore = useDocStore()
 docStore.setToc(props.toc)
 
 const editHref = computed(() =>
-  `https://github.com/quasarframework/legacy-app-docs/edit/${ process.env.DOCS_BRANCH }/docs/src/pages/${ props.editLink }.md`
+  `https://github.com/quasarframework/legacy-app-docs/edit/${ import.meta.env.DOCS_BRANCH }/src/pages/${ props.editLink }.md`
 )
 
 const tocClass = computed(() =>

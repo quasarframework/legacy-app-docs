@@ -11,7 +11,7 @@ Using `process.env` can help you in many ways:
 
 ## Values provided by Quasar CLI
 
-| `process∙env∙<name>` | Type    | Meaning                                                                                      |
+| `process.env.<name>` | Type    | Meaning                                                                                      |
 | -------------------- | ------- | -------------------------------------------------------------------------------------------- |
 | `DEV`                | Boolean | Code runs in development mode                                                                |
 | `PROD`               | Boolean | Code runs in production mode                                                                 |
@@ -29,7 +29,7 @@ if (process.env.DEV) {
   console.log(`I'm on a development build`)
 }
 
-// process∙env∙MODE is the <mode> in
+// process.env.MODE is the <mode> in
 // "quasar dev/build -m <mode>"
 // (defaults to 'spa' if -m parameter is not specified)
 
@@ -106,7 +106,7 @@ export default defineConfig(ctx => {
 })
 ```
 
-Then, in your website/app, you can access `process∙env∙API`, and it will point to one of those two links above, depending on dev or production build type.
+Then, in your website/app, you can access `process.env.API`, and it will point to one of those two links above, depending on dev or production build type.
 
 You can even combine it with values from the `quasar dev/build` env variables:
 

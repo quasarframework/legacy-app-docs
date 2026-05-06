@@ -16,7 +16,6 @@ export default [
     children: [
       {
         name: 'Upgrade guide',
-        badge: 'NEW!',
         path: 'upgrade-guide'
       },
       {
@@ -863,7 +862,6 @@ export default [
     children: [
       {
         name: 'Upgrade guide',
-        badge: 'NEW!',
         path: 'upgrade-guide'
       },
       {

@@ -10,7 +10,7 @@ Notice that your generated `/src-ssr` contains a file named `server.js`. This fi
 The `/src-ssr/server.js` file is a simple JavaScript/Typescript file which boots up your SSR webserver and defines what how your webserver starts & handles requests and what it exports (if exporting anything).
 
 ::: danger
-The `/src-ssr/server.js` file is used for both DEV and PROD, so please be careful on how you configure it. To differentiate between the two states you can use `process∙env∙DEV` and `process∙env∙PROD`.
+The `/src-ssr/server.js` file is used for both DEV and PROD, so please be careful on how you configure it. To differentiate between the two states you can use `process.env.DEV` and `process.env.PROD`.
 :::
 
 ```js
@@ -422,7 +422,7 @@ export default defineSsrMiddleware(({ app, resolve, render, serve }) => {
 
 ### Listen on a port
 
-This is the default option that you get when adding SSR support in a Quasar CLI project. It starts listening on the configured port (process∙env∙PORT or quasar.config file > ssr > prodPort).
+This is the default option that you get when adding SSR support in a Quasar CLI project. It starts listening on the configured port (process.env.PORT or quasar.config file > ssr > prodPort).
 
 ```js src-ssr/server.js
 export const listen = defineSsrListen(({ app, devHttpsApp, port }) => {

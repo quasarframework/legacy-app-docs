@@ -1,8 +1,8 @@
-import { defineConfig } from '#q-app/wrappers'
+import { defineConfig } from '#q-app'
 
 import mdPlugin from './build/md/index.js'
 import examplesPlugin from './build/examples.js'
-import manualChunks from './build/chunks.js'
+import { codeSplitting } from './build/chunks.js'
 
 export default defineConfig(ctx => ({
   boot: [
@@ -17,10 +17,8 @@ export default defineConfig(ctx => ({
     vueRouterMode: 'history',
     distDir: 'dist/quasar.dev',
     useFilenameHashes: false,
-    // analyze: true,
-    // rebuildCache: true,
 
-    env: {
+    defineEnv: {
       DOCS_BRANCH: 'main',
       SEARCH_INDEX: 'quasar-legacy-app'
     },
@@ -37,8 +35,10 @@ export default defineConfig(ctx => ({
     extendViteConf (viteConf, { isClient }) {
       if (ctx.prod && isClient) {
         viteConf.build.chunkSizeWarningLimit = 650
-        viteConf.build.rollupOptions = {
-          output: { manualChunks }
+        viteConf.build.rolldownOptions = {
+          output: {
+            codeSplitting
+          }
         }
       }
     }

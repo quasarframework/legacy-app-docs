@@ -14,7 +14,7 @@ import routes from './routes'
  */
 
 export default function () {
-  const createHistory = process.env.SERVER
+  const createHistory = import.meta.env.QUASAR_SERVER
     ? createMemoryHistory
     : createWebHistory
 
@@ -25,10 +25,10 @@ export default function () {
         : (savedPosition || { left: 0, top: 0 })
     ),
     routes,
-    history: createHistory(process.env.VUE_ROUTER_BASE)
+    history: createHistory(import.meta.env.QUASAR_VUE_ROUTER_BASE)
   })
 
-  process.env.CLIENT === true && Router.afterEach(to => {
+  import.meta.env.QUASAR_CLIENT === true && Router.afterEach(to => {
     gtag('config', 'G-8124LZPSHJ', {
       page_path: to.path
     })
