@@ -32,12 +32,16 @@ export default defineConfig(ctx => ({
       examplesPlugin(ctx.prod)
     ],
 
-    extendViteConf (viteConf, { isClient }) {
+    extendViteConf (_viteConf, { isClient }) {
       if (ctx.prod && isClient) {
-        viteConf.build.chunkSizeWarningLimit = 650
-        viteConf.build.rolldownOptions = {
-          output: {
-            codeSplitting
+        return {
+          build: {
+            chunkSizeWarningLimit: 650,
+            rolldownOptions: {
+              output: {
+                codeSplitting
+              }
+            }
           }
         }
       }
@@ -78,10 +82,10 @@ export default defineConfig(ctx => ({
 
   pwa: {
     workboxMode: 'GenerateSW',
-    injectPwaMetaTags: false,
+    injectPWAMetaTags: false,
     swFilename: 'service-worker.js',
 
-    extendWorkboxGenerateSWOptions (cfg) {
+    extendPWAGenerateSWOptions (cfg) {
       Object.assign(cfg, {
         cleanupOutdatedCaches: true,
         skipWaiting: true,
