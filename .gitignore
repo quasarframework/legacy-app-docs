@@ -1,6 +1,6 @@
 .DS_Store
 .Thumbs.db
-yarn.lock
+pnpm-lock.yaml
 debug.log
 package-lock.json
 node_modules/
