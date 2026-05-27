@@ -40,5 +40,5 @@
 </template>
 
 <script setup>
-import { fabGithub, fabPaypal } from '@quasar/extras/fontawesome-v6'
+import { fabGithub, fabPaypal } from '@quasar/extras/fontawesome-v7'
 </script>
