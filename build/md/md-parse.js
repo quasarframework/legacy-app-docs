@@ -32,13 +32,13 @@ export default function mdParse (code, id) {
   frontMatter.toc = []
   frontMatter.pageScripts = new Set()
 
-  frontMatter.pageScripts.add('import DocPage from \'src/layouts/doc-layout/DocPage.vue\'')
+  frontMatter.pageScripts.add('import DocPage from \'@/layouts/doc-layout/DocPage.vue\'')
 
   if (frontMatter.examples !== void 0) {
-    frontMatter.pageScripts.add('import DocExample from \'src/components/DocExample.vue\'')
+    frontMatter.pageScripts.add('import DocExample from \'@/components/DocExample.vue\'')
   }
   if (docTreeRE.test(code) === true) {
-    frontMatter.pageScripts.add('import DocTree from \'src/components/DocTree.vue\'')
+    frontMatter.pageScripts.add('import DocTree from \'@/components/DocTree.vue\'')
   }
 
   if (frontMatter.overline === void 0) {

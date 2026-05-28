@@ -43,7 +43,7 @@ export function getVueComponent ({ frontMatter, mdContent, pageScripts }) {
     ${ frontMatter.nav !== void 0 ? ':nav="nav"' : '' }>${ mdContent }</doc-page>
 </template>
 <script setup>
-import { copyHeading } from 'assets/page-utils'
+import { copyHeading } from '@/assets/page-utils'
 ${ frontMatter.examples !== void 0 ? `
 import { provide } from 'vue'
 provide('_q_ex', import.meta.env.QUASAR_CLIENT

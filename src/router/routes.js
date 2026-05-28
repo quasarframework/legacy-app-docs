@@ -1,5 +1,5 @@
-import mdPageList from 'src/pages/listing.js'
-import DocLayout from 'src/layouts/doc-layout/DocLayout.vue'
+import mdPageList from '@/pages/listing.js'
+import DocLayout from '@/layouts/doc-layout/DocLayout.vue'
 
 const routes = [
   { path: '/', redirect: '/home' },

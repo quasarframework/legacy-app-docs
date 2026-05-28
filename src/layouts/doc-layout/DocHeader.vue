@@ -75,7 +75,7 @@
 import { computed } from 'vue'
 import { mdiCompare, mdiFolderPound } from '@quasar/extras/mdi-v7'
 
-import { socialLinks } from 'src/assets/links.social.js'
+import { socialLinks } from '@/assets/links.social.js'
 
 import DocSearch from './DocSearch.vue'
 // import DocHeaderTextLinks from './DocHeaderTextLinks.vue'

@@ -88,10 +88,10 @@ import {
   mdiLaunch
 } from '@quasar/extras/mdi-v7'
 
-import DocLink from 'src/components/DocLink.vue'
+import DocLink from '@/components/DocLink.vue'
 import DocPageToc from './DocPageToc.vue'
 
-import getMeta from 'assets/get-meta.js'
+import getMeta from '@/assets/get-meta.js'
 import { useDocStore } from './store/index.js'
 
 const props = defineProps({

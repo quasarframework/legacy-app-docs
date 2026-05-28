@@ -8,7 +8,7 @@
 
 <script setup>
 import { computed } from 'vue'
-import { copyHeading, slugify } from 'assets/page-utils.js'
+import { copyHeading, slugify } from '@/assets/page-utils.js'
 
 const props = defineProps({
   title: String,

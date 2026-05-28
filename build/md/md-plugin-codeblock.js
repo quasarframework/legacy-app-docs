@@ -261,8 +261,8 @@ export default function mdPluginCodeblock (md) {
     const token = tokens[ idx ]
     const attrs = parseDefinitionLine(token)
 
-    md.$frontMatter.pageScripts.add('import DocPrerender from \'src/components/DocPrerender.js\'')
-    md.$frontMatter.pageScripts.add('import CopyButton from \'src/components/CopyButton.vue\'')
+    md.$frontMatter.pageScripts.add('import DocPrerender from \'@/components/DocPrerender.js\'')
+    md.$frontMatter.pageScripts.add('import CopyButton from \'@/components/CopyButton.vue\'')
 
     return `<doc-prerender${ attrs.title !== null ? ` title="${ attrs.title }"` : ''}${ attrs.tabs !== void 0 ? ` :tabs="${ attrs.tabs.param }"` : '' }>` +
       (

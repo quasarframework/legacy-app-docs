@@ -12,7 +12,7 @@ import { mdiMenuDown } from '@quasar/extras/mdi-v7'
 import { h, ref, watch, onBeforeUpdate, withDirectives } from 'vue'
 import { useRoute } from 'vue-router'
 
-import Menu from 'assets/menu.js'
+import Menu from '@/assets/menu.js'
 import './DocPageMenu.sass'
 
 function getParentProxy (proxy) {
